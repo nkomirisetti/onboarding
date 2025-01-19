@@ -3,8 +3,8 @@
 This server hosts several media services for personal use and entertainment:
 
 ## Current Features
-- **Movie and TV**: Stream my curated collection of movies and TVs directly from my server
-- **Photo Backup**: Browse and share personal photos with easy organization and viewing options
+- **Movie and TV Streaming**
+- **Personal Photo Backup**
 
 ## Accessing Photos
 
