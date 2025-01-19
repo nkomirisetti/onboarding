@@ -9,7 +9,7 @@ This server hosts several media services for personal use and entertainment:
 ## Accessing Photos
 
 ### Web Access
-Access photos through your web browser at: [photos.komirisetti.com](photos.komirisetti.com)
+Access photos through your web browser at: [photos.komirisetti.com](photos.komirisetti.com) using your Google account to sign in.
 
 ### Mobile Access
 1. Download the Immich app from the [App Store](https://apps.apple.com/us/app/immich/id1613945652)
@@ -20,7 +20,7 @@ Access photos through your web browser at: [photos.komirisetti.com](photos.komir
 ## Watching Movies & TV Shows
 
 ### Plex Access
-1. Create a Plex account using the invite link provided
+1. Create a Plex account using the invite link sent to your email
 2. Access content at [plex.tv](https://plex.tv) or via Plex apps on phones/TVs
 
 ### Requesting Content
